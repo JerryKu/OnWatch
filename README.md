@@ -2,10 +2,10 @@
 onWatch - HackUCSC2016 
 
 Created by:
+Jerry Ku
 Juan D. Cardozo
 Garrett Stoll
 Anthony Pan
-Jerry Ku
 Weibin Zhong
 
 
